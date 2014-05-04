@@ -1,4 +1,4 @@
-know-me
+Contact Page
 =======
 
-Really, you really have to know me!
+A generic contact page.
